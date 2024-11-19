@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+            Text("Hi")
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .imageScale(.large)
@@ -18,6 +19,8 @@ struct ContentView: View {
             Button("Click me!") {
                 
             }
+            
+            Rectangle()
         }
         .padding()
     }
