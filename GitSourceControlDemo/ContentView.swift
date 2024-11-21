@@ -15,7 +15,9 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, Swift, Greate to see the text here!")
+            Text("Great to see the changes in branch 2")
+            
+            Text("Hello, Swift, Great to see the text here!")
             Button("Subscribe!!") {
                 
             }
