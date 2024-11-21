@@ -17,8 +17,8 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Great to see the changes in branch 2")
             
-            Text("Hello, Swift, Great to see the text here!")
-            Button("Subscribe!!") {
+            Text("Hello, Swift, Great to see the text here...")
+            Button("Subscribe Now!!") {
                 
             }
             
