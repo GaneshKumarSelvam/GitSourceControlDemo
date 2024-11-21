@@ -15,6 +15,7 @@
 		7516014A2CEC966200051D58 /* GitSourceControlDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 751601492CEC966200051D58 /* GitSourceControlDemoUITests.swift */; };
 		7516014C2CEC966200051D58 /* GitSourceControlDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7516014B2CEC966200051D58 /* GitSourceControlDemoUITestsLaunchTests.swift */; };
 		751601592CECA08400051D58 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 751601582CECA08400051D58 /* HomeView.swift */; };
+		7516015D2CEF4F1B00051D58 /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7516015C2CEF4F1B00051D58 /* ExploreView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		751601492CEC966200051D58 /* GitSourceControlDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitSourceControlDemoUITests.swift; sourceTree = "<group>"; };
 		7516014B2CEC966200051D58 /* GitSourceControlDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitSourceControlDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		751601582CECA08400051D58 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		7516015C2CEF4F1B00051D58 /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				751601582CECA08400051D58 /* HomeView.swift */,
 				751601322CEC966200051D58 /* Assets.xcassets */,
 				751601342CEC966200051D58 /* Preview Content */,
+				7516015C2CEF4F1B00051D58 /* ExploreView.swift */,
 			);
 			path = GitSourceControlDemo;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			files = (
 				751601592CECA08400051D58 /* HomeView.swift in Sources */,
 				751601312CEC966100051D58 /* ContentView.swift in Sources */,
+				7516015D2CEF4F1B00051D58 /* ExploreView.swift in Sources */,
 				7516012F2CEC966100051D58 /* GitSourceControlDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
